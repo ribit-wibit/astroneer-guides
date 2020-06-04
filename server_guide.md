@@ -35,13 +35,13 @@ Now you double click on `Astroneer server update.bat`.  It will open a CMD windo
 
 The CMD window should look something like this:
 
-![alt text](image2.png "image2")
+![alt text](images/image2.png "image2")
 
 When the download is done go to the server folder.  If you are in the *steamcmd* folder you made, the path should be `steamapps\common\ASTRONEER Dedicated Server`.
 
 The folder looks something like this:
 
-![alt text](image3.png "image3")
+![alt text](images/image3.png "image3")
 
 Okay, now that we have this part done we will need to configure the server.  There are two configs we have to edit but first, we have to start the server once to create them.  
 
@@ -54,7 +54,7 @@ When you finish editing the config files (see next section), you can run `AstroS
 
 When you start the server for the first time it may ask you to allow the application through your firewall:
 
-![alt text](image4.png "image4")
+![alt text](images/image4.png "image4")
 
 **Note:** If you use a different firewall program, your pop-up will look different.
 
@@ -124,15 +124,15 @@ Okay, now we are going to connect to the server.  Run **Astroneer**.
 
 As soon as you are in the main menu, go to the **CO-OP** tab.  When you click on that it will show an option named **DEDICATED SERVERS**:
 
-![alt text](image5.png "image5")
+![alt text](images/image5.png "image5")
 
 Click on **DEDICATED SERVERS** and it will bring you to this tab:
 
-![alt text](image6.png "image6")
+![alt text](images/image6.png "image6")
 
 Now click on **ADD DEDICATED SERVER**, this window will show up:
 
-![alt text](image7.png "image7")
+![alt text](images/image7.png "image7")
 
 You should be seeing:
 
@@ -145,15 +145,15 @@ In <ENDER SERVER NICKNAME> put your server name or something to identify it.
 
 You should now see something like this:
 
-![alt text](image8.png "image8")
+![alt text](images/image8.png "image8")
 
 Now click on **ADD SERVER**.  It will show up under your **FAVORITE SERVERS** section:
 
-![alt text](image9.png "image9")
+![alt text](images/image9.png "image9")
 
 As you can see it does now show up in your **FAVORITE SERVERS** section.  If you did everything right it should show up as 0/8.  If you made a mistake or the server isn't running, you should see something like this:
 
-![alt text](image10.png "image10")
+![alt text](images/image10.png "image10")
 
 ##Q&A
 
@@ -165,7 +165,7 @@ No, right now you can only use a IPv4 you can find yours out by Googling “[my 
 
 **Extra Note:** make sure you use an IPv4 IP as IPv6 is not supported.
 
-![alt text](image11.png "image11")
+![alt text](images/image11.png "image11")
 
 #### Do I have to port-forward my port?
 
@@ -207,7 +207,7 @@ The bat file that you start your server with also provides an auto-restart if yo
 
 If you don’t use that bat file you will need to manually run `AstroServer.exe` file to start it up again. 
 
-![alt text](image12.png "image12")
+![alt text](images/image12.png "image12")
 
 #### Can I cross-play on a server that I host myself?
 
