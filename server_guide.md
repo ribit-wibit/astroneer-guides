@@ -2,12 +2,13 @@
 # How to Set Up Your Own Astroneer Dedicated Server
 
 </br>
-## Preface
+## Preface#
+
 
 I am not responsible if you break your computer.  Please, if you don't know what you are doing, stop here.  You are responsible for your actions.  If you proceed, good luck.  There are pictures to help. :-)
 
 </br>
-## Overview
+## Overview#
 
 You're here because you want to set up your own Astroneer (self-host) server 
 you are going to need some things to make this all work:
