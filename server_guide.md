@@ -1,5 +1,5 @@
 
-#How to Set Up Your Own Astroneer Dedicated Server
+# How to Set Up Your Own Astroneer Dedicated Server
 
 </br>
 ##Preface
